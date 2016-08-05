@@ -1,0 +1,46 @@
+@charset "UTF-8";
+
+/*------------------------------------*\
+    $MIXIN
+\*------------------------------------*/
+
+$base-font-size: 16px;
+$font-default-color: #555555;
+$main-color: #2196f3;
+$link-color: $main-color;
+$yellow: #eea236;
+$light-yellow: #fff33f;
+$green: #0eaa52;
+$orange: #ff6200;
+$red: #dc3636;
+$gray: #666666;
+$light-blue: #f5fafe;
+$light-gray: #777777;
+$hr-light-color: #e8e8e8;
+$dark-blue: #207abb;
+$black: #383838;
+$bg-gray: #fbfbfb;
+$bg-gray-line: #ededed;
+$title-gray: #535353;
+$table-gray: #f5f4f4;
+$black-bg: #151515;
+$bg-blue: #f5fafe;
+$base-color: #da323b;
+$base-color-hover:#cd131d;
+$l-pink-color: #fa3d73;
+$light-pink-color: #ffdae5;
+$l-green-color: #26a69a;
+$l-orange-color: #f17f04;
+$l-blue-color: #21a8c8;
+$index-font-color: #242424;
+$sidebar-bg-color: #f5f5f5;
+$price-color: $l-pink-color;
+$content-gray-line: #e7e7e7;
+
+h1 {
+    color: $orange;
+}
+
+h2 {
+    color: $green;
+}
